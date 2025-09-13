@@ -1,5 +1,6 @@
 # Laptop-Dataset-Cleaning
 # Laptop Dataset Cleaning (SQL)
+# Dataset link - https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset
 
 ## Overview
 This project focuses on cleaning and analyzing a laptop dataset using SQL. The goal is to handle missing values, remove outliers, and engineer new features to make the data analysis-ready.
